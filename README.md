@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chris-fink
 - 👀 I’m interested in ... 
--     professionally: full-stack development 
+-     professionally: all things web development
       personally: being a good dad & husband, soccer, formula 1, mechanical keyboards, and constent growth & learning
 - 🌱 I’m currently learning ... React, Angular, MongoDB, &  PHP 
 - 💞️ I’m looking to collaborate on ... open source projects
