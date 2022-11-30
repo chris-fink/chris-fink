@@ -2,8 +2,8 @@
 - 👀 I’m interested in ... 
 -     professionally: full-stack development 
       personally: being a good dad & husband, soccer, formula 1, mechanical keyboards, and constent growth & learning
-- 🌱 I’m currently learning ... Python, React, SQL, & TailwindCSS
-- 💞️ I’m looking to collaborate on ... anything I can help with.
+- 🌱 I’m currently learning ... React, Angular, MongoDB, &  PHP 
+- 💞️ I’m looking to collaborate on ... open source projects
 - 📫 How to reach me ...https://cfink.dev/, https://linkedin.com/in/christopher-fink/ or https://twitter.com/Fink_dev
 
 <!---
