@@ -4,12 +4,15 @@
  <br>
  <br>
  <br>
- I'm a self-taught/community-taught developer seeking to transition from logistics & supply chaing industry to become a software developer. I have been studying for the last 7+ months between my full-time job and being a full-time husband to my wife (Katelyn) and father to my son (Otto). Outside of work I love cooking (especially barbeque), watching Formula 1, cheering on Arsenal FC and the Greenville Triumph, and spending time with my family.
+ I'm a self-taught/community-taught developer seeking to transition from logistics & supply chaing industry to become a software developer. I have been studying since 2022 
+ between my full-time job and being a full-time husband to my wife (Katelyn) and father to my son (Otto). Outside of work I love cooking (especially barbeque), watching 
+ Formula 1, cheering on Arsenal FC and the Greenville Triumph, and spending time with my family.
  <br>
  <br>
- I believe that tech is the future and can change the world. I am so excited by the possibility to create something that bring positive change to the world. It would be a dream to help build technologies to bring more sustainability to the shipping industry.
+ I believe that tech is the future and can change the world. I am so excited by the possibility to create something that bring positive change to the world. It would be a 
+ dream to help build technologies to bring more sustainability to the shipping industry.
  <br><br>
- Lately, I have been been focusing my learning in React, Express, Mongoose, and Tailwind.
+ Lately, I have been been focusing my learning in React, Express, Mongoose, and Docker.
  <br><br>
  <a href='https://linkedin.com/in/christopher-fink/'>LinkedIn</a>
  <br>
